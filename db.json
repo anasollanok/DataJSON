@@ -1,252 +1,252 @@
 {
-  nhits: 27,
-  parameters: {
-    dataset: [
+  "nhits": 27,
+  "parameters": {
+    "dataset": [
       "hospitales-y-centros-de-salud"
     ],
-    timezone: "UTC",
-    rows: 10,
-    format: "json"
+    "timezone": "UTC",
+    "rows": 10,
+    "format": "json"
   },
-  records: [
+  "records": [
   {
-    datasetid: "hospitales-y-centros-de-salud",
-    recordid: "5bb84412661b0c0cebf8753826f358e5d6de76ec",
-    fields: {
-      latitud: 19.432852,
-      titular: "Director: Dr. Enrique Grania Pozada Dirección: Oriente 158 No. 189, Col. Moctezuma 2da. Secci?n, Delegación Venustiano Carranza C.P. 15530. Teléfono: 55 71 40 57",
-      geopoint: [
+    "datasetid": "hospitales-y-centros-de-salud",
+    "recordid": "5bb84412661b0c0cebf8753826f358e5d6de76ec",
+    "fields": {
+      "latitud": 19.432852,
+      "titular": "Director: Dr. Enrique Grania Pozada Dirección: Oriente 158 No. 189, Col. Moctezuma 2da. Secci?n, Delegación Venustiano Carranza C.P. 15530. Teléfono: 55 71 40 57",
+      "geopoint": [
         19.432852,
         -99.098358
       ],
-      coordenadas: "-99.098358,19.432852,0.000000",
-      nombre: "Hospital Pediátrico Moctezuma",
-      longitud: -99.098358,
-      imageURL: "http://yucatan.com.mx/wp-content/uploads/2017/02/moctezuma.jpg",
+      "coordenadas": "-99.098358,19.432852,0.000000",
+      "nombre": "Hospital Pediátrico Moctezuma",
+      "longitud": -99.098358,
+      "imageURL": "http://yucatan.com.mx/wp-content/uploads/2017/02/moctezuma.jpg"
     },
-    geometry: {
-      type: "Point",
-      coordinates: [
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -99.098358,
         19.432852
       ]
     },
-    record_timestamp: "2019-01-13T23:45:59+00:00"
+    "record_timestamp": "2019-01-13T23:45:59+00:00"
   },
   {
-    datasetid: "hospitales-y-centros-de-salud",
-    recordid: "75ed4b04786ff02cc1a7f43a97e534ae66f59d2a",
-    fields: {
-      latitud: 19.424906,
-      titular: "Director: Dr. Miguel Angel Martínez Guzmán Dirección: Cecilio R?belo y sur No.103, Col. Aeron?utica Militar, Delegación Venustiano Carranza C.P. 15900. Teléfono: 55 52 16 02",
-      geopoint: [
+    "datasetid": "hospitales-y-centros-de-salud",
+    "recordid": "75ed4b04786ff02cc1a7f43a97e534ae66f59d2a",
+    "fields": {
+      "latitud": 19.424906,
+      "titular": "Director: Dr. Miguel Angel Martínez Guzmán Dirección: Cecilio R?belo y sur No.103, Col. Aeron?utica Militar, Delegación Venustiano Carranza C.P. 15900. Teléfono: 55 52 16 02",
+      "geopoint": [
         19.424906,
         -99.115303
       ],
-      coordenadas: "-99.115303,19.424906,0.000000",
-      nombre: "Hospital General Balbuena",
-      longitud: -99.115303,
-      imageURL: "https://i0.wp.com/noticiasdemexico.com.mx/wp-content/uploads/2018/04/teaserbox_14793139.png",
+      "coordenadas": "-99.115303,19.424906,0.000000",
+      "nombre": "Hospital General Balbuena",
+      "longitud": -99.115303,
+      "imageURL": "https://i0.wp.com/noticiasdemexico.com.mx/wp-content/uploads/2018/04/teaserbox_14793139.png"
     },
-    geometry: {
-      type: "Point",
-      coordinates: [
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -99.115303,
         19.424906
       ]
     },
-    record_timestamp: "2019-01-13T23:45:59+00:00"
+    "record_timestamp": "2019-01-13T23:45:59+00:00"
   },
   {
-    datasetid: "hospitales-y-centros-de-salud",
-    recordid: "2f85dc14292c92f900c0bdf77c5438670183ce23",
-    fields: {
-      latitud: 19.539803,
-      titular: "Director: Dr. Roberto P?rez AguilarDirección: Emiliano Zapata No 17, Col. Cuautepec Barrio Bajo Delegación Gustavo A. Madero C.P. 07200. Teléfono: 53 06 21 90",
-      geopoint: [
+    "datasetid": "hospitales-y-centros-de-salud",
+    "recordid": "2f85dc14292c92f900c0bdf77c5438670183ce23",
+    "fields": {
+      "latitud": 19.539803,
+      "titular": "Director: Dr. Roberto P?rez AguilarDirección: Emiliano Zapata No 17, Col. Cuautepec Barrio Bajo Delegación Gustavo A. Madero C.P. 07200. Teléfono: 53 06 21 90",
+      "geopoint": [
         19.539803,
         -99.140785
       ],
-      coordenadas: "-99.140785,19.539803,0.000000",
-      nombre: "Hospital Materno Infantil Cuautepec",
-      longitud: -99.140785,
-      imageURL: "https://clinicas-aborto.com.mx/wp-content/uploads/2017/01/hospital-materno-infantil-cuautepec.jpg",
+      "coordenadas": "-99.140785,19.539803,0.000000",
+      "nombre": "Hospital Materno Infantil Cuautepec",
+      "longitud": -99.140785,
+      "imageURL": "https://clinicas-aborto.com.mx/wp-content/uploads/2017/01/hospital-materno-infantil-cuautepec.jpg"
     },
-    geometry: {
-      type: "Point",
-      coordinates: [
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -99.140785,
         19.539803
       ]
     },
-    record_timestamp: "2019-01-13T23:45:59+00:00"
+    "record_timestamp": "2019-01-13T23:45:59+00:00"
   },
   {
-    datasetid: "hospitales-y-centros-de-salud",
-    recordid: "909d427eb71f60c12eb522472341da97ba296dc7",
-    fields: {
-      latitud: 19.356548,
-      titular: "Director: Dr. Ramón Carballo Herrada Dirección: Calzada Ermita Iztapalapa No. 780, Col. Granjas San Antonio, Delegación Iztapalapa C.P. 09070. Teléfono: 56 85 94 16",
-      geopoint: [
+    "datasetid": "hospitales-y-centros-de-salud",
+    "recordid": "909d427eb71f60c12eb522472341da97ba296dc7",
+    "fields": {
+      "latitud": 19.356548,
+      "titular": "Director: Dr. Ramón Carballo Herrada Dirección: Calzada Ermita Iztapalapa No. 780, Col. Granjas San Antonio, Delegación Iztapalapa C.P. 09070. Teléfono: 56 85 94 16",
+      "geopoint": [
         19.356548,
         -99.107689
       ],
-      coordenadas: "-99.107689,19.356548,0.000000",
-      nombre: "Hospital Pediátrico Iztapalapa",
-      longitud: -99.107689,
-      imageURL: "http://static.wixstatic.com/media/1bb4cf_5c339459c8f2b031336e38506f73a1c8.jpg/v1/fill/w_300,h_240,al_c,q_90/1bb4cf_5c339459c8f2b031336e38506f73a1c8.webp",
+      "coordenadas": "-99.107689,19.356548,0.000000",
+      "nombre": "Hospital Pediátrico Iztapalapa",
+      "longitud": -99.107689,
+      "imageURL": "http://static.wixstatic.com/media/1bb4cf_5c339459c8f2b031336e38506f73a1c8.jpg/v1/fill/w_300,h_240,al_c,q_90/1bb4cf_5c339459c8f2b031336e38506f73a1c8.webp"
     },
-    geometry: {
-      type: "Point",
-      coordinates: [
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -99.107689,
         19.356548
       ]
     },
-    record_timestamp: "2019-01-13T23:45:59+00:00"
+    "record_timestamp": "2019-01-13T23:45:59+00:00"
   },
   {
-    datasetid: "hospitales-y-centros-de-salud",
-    recordid: "91490e5dfc31af0447d7f66670668b6edd6c6750",
-    fields: {
-      latitud: 19.450733,
-      titular: "Director: Dr. Arturo Rafael Capistrán Guadalajara Dirección: Calzada Legar?a 371, Col. México Nuevo, Delegación Miguel Hidalgo C. P. 11260. Teléfono: 50 82 76 42",
-      geopoint: [
+    "datasetid": "hospitales-y-centros-de-salud",
+    "recordid": "91490e5dfc31af0447d7f66670668b6edd6c6750",
+    "fields": {
+      "latitud": 19.450733,
+      "titular": "Director: Dr. Arturo Rafael Capistrán Guadalajara Dirección: Calzada Legar?a 371, Col. México Nuevo, Delegación Miguel Hidalgo C. P. 11260. Teléfono: 50 82 76 42",
+      "geopoint": [
         19.450733,
         -99.202934
       ],
-      coordenadas: "-99.202934,19.450733,0.000000",
-      nombre: "Hospital Pediátrico Legaria",
-      longitud: -99.202934,
-      imageURL: "https://mapio.net/images-p/16534746.jpg",
+      "coordenadas": "-99.202934,19.450733,0.000000",
+      "nombre": "Hospital Pediátrico Legaria",
+      "longitud": -99.202934,
+      "imageURL": "https://mapio.net/images-p/16534746.jpg"
     },
-    geometry: {
-      type: "Point",
-      coordinates: [
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -99.202934,
         19.450733
       ]
     },
-    record_timestamp: "2019-01-13T23:45:59+00:00"
+    "record_timestamp": "2019-01-13T23:45:59+00:00"
   },
   {
-    datasetid: "hospitales-y-centros-de-salud",
-    recordid: "005799e69c984188ffc380ab477f9e2c99ac8f80",
-    fields: {
-      latitud: 19.345737,
-      titular: "Director: Dr. Miguel Camarillo Valencia Dirección: Moctezuma No. 18, Col. Del Carmen Coyoacán, Delegación Coyoacán C.P. 0400. Teléfono: 55 54 28 60",
-      geopoint: [
+    "datasetid": "hospitales-y-centros-de-salud",
+    "recordid": "005799e69c984188ffc380ab477f9e2c99ac8f80",
+    "fields": {
+      "latitud": 19.345737,
+      "titular": "Director: Dr. Miguel Camarillo Valencia Dirección: Moctezuma No. 18, Col. Del Carmen Coyoacán, Delegación Coyoacán C.P. 0400. Teléfono: 55 54 28 60",
+      "geopoint": [
       19.345737,
       -99.167725
       ],
-      coordenadas: "-99.167725,19.345737,0.000000",
-      nombre: "Hospital Pediátrico Coyoacán",
-      longitud: -99.167725,
-      imageURL: "https://www.odontologos.mx/noticias/noticias/nota-interna-pediatricop-1.jpg",
+      "coordenadas": "-99.167725,19.345737,0.000000",
+      "nombre": "Hospital Pediátrico Coyoacán",
+      "longitud": -99.167725,
+      "imageURL": "https://www.odontologos.mx/noticias/noticias/nota-interna-pediatricop-1.jpg"
     },
-    geometry: {
-      type: "Point",
-      coordinates: [
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -99.167725,
         19.345737
       ]
     },
-    record_timestamp: "2019-01-13T23:45:59+00:00"
+    "record_timestamp": "2019-01-13T23:45:59+00:00"
   },
   {
-    datasetid: "hospitales-y-centros-de-salud",
-    recordid: "13f802d3f4416073d56f10e7f5d81ea8e11706e9",
-    fields: {
-      latitud: 19.457306,
-      titular: "Director: Dr. Raúl Contreras Artine Dirección: Av. 506 entre calle 517 y 521, Col. San Juan de Arag?n 1a. Secci?n Del. Gustavo A. Madero C.P. 07969. Teléfono: 55 51 00 03",
-      geopoint: [
+    "datasetid": "hospitales-y-centros-de-salud",
+    "recordid": "13f802d3f4416073d56f10e7f5d81ea8e11706e9",
+    "fields": {
+      "latitud": 19.457306,
+      "titular": "Director: Dr. Raúl Contreras Artine Dirección: Av. 506 entre calle 517 y 521, Col. San Juan de Arag?n 1a. Secci?n Del. Gustavo A. Madero C.P. 07969. Teléfono: 55 51 00 03",
+      "geopoint": [
         19.457306,
         -99.092812
       ],
-      coordenadas: "-99.092812,19.457306,0.000000",
-      nombre: "Hospital Pediátrico San Juan de Aragón",
-      longitud: -99.092812,
-      imageURL: "https://cdn.nrm.com.mx/cdn/enfoque/2016/styles/imagen__900x470_/storage-field-image/imagenes/contenido/hospital.png",
+      "coordenadas": "-99.092812,19.457306,0.000000",
+      "nombre": "Hospital Pediátrico San Juan de Aragón",
+      "longitud": -99.092812,
+      "imageURL": "https://cdn.nrm.com.mx/cdn/enfoque/2016/styles/imagen__900x470_/storage-field-image/imagenes/contenido/hospital.png"
     },
-    geometry: {
-      type: "Point",
-      coordinates: [
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -99.092812,
         19.457306
       ]
     },
-    record_timestamp: "2019-01-13T23:45:59+00:00"
+    "record_timestamp": "2019-01-13T23:45:59+00:00"
   },
   {
-    datasetid: "hospitales-y-centros-de-salud",
-    recordid: "d8a2e15af2d0e1c839c56335ff49b718ea5b1c95",
-    fields: {
-      latitud: 19.361961,
-      titular: "Director: Dra. Arcelia Martínez González Dirección: Av. Centenario, esquina Prolongación 5 de mayo, Col. Exhacienda de Tarango, Delegación ?lvaro Obreg?n Teléfono: 12 85 29 54",
-      geopoint: [
+    "datasetid": "hospitales-y-centros-de-salud",
+    "recordid": "d8a2e15af2d0e1c839c56335ff49b718ea5b1c95",
+    "fields": {
+      "latitud": 19.361961,
+      "titular": "Director: Dra. Arcelia Martínez González Dirección: Av. Centenario, esquina Prolongación 5 de mayo, Col. Exhacienda de Tarango, Delegación ?lvaro Obreg?n Teléfono: 12 85 29 54",
+      "geopoint": [
         19.361961,
         -99.224678
       ],
-      coordenadas: "-99.224678,19.361961,0.000000",
-      nombre: "Hospital General Dr. Enrique Cabrera",
-      longitud: -99.224678,
-      imageURL: "http://www.grupo-gsa.com/GSA/087.JPG",
+      "coordenadas": "-99.224678,19.361961,0.000000",
+      "nombre": "Hospital General Dr. Enrique Cabrera",
+      "longitud": -99.224678,
+      "imageURL": "http://www.grupo-gsa.com/GSA/087.JPG"
     },
-    geometry: {
-      type: "Point",
-      coordinates: [
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -99.224678,
         19.361961
       ]
     },
-    record_timestamp: "2019-01-13T23:45:59+00:00"
+    "record_timestamp": "2019-01-13T23:45:59+00:00"
   },
   {
-    datasetid: "hospitales-y-centros-de-salud",
-    recordid: "844f3584ac5650aad08e40f096679b0889ce8873",
-    fields: {
-      latitud: 19.487551,
-      titular: "Director: Dra. María del Rocío Lima Carcaño Dirección: Avenida Cantera, Esq. Hidalgo S/n, Col. Estanzuela Delegación Gustavo A. Madero C.P. 07050. Teléfono: 57 81 20 69",
-      geopoint: [
+    "datasetid": "hospitales-y-centros-de-salud",
+    "recordid": "844f3584ac5650aad08e40f096679b0889ce8873",
+    "fields": {
+      "latitud": 19.487551,
+      "titular": "Director: Dra. María del Rocío Lima Carcaño Dirección: Avenida Cantera, Esq. Hidalgo S/n, Col. Estanzuela Delegación Gustavo A. Madero C.P. 07050. Teléfono: 57 81 20 69",
+      "geopoint": [
         19.487551,
         -99.113876
       ],
-      coordenadas: "-99.113876,19.487551,0.000000",
-      nombre: "Hospital Pediátrico Villa",
-      longitud: -99.113876,
-      imageURL: "https://s3-media2.fl.yelpcdn.com/bphoto/X6R6GWP31pmzoHRBFlrsCw/348s.jpg",
+      "coordenadas": "-99.113876,19.487551,0.000000",
+      "nombre": "Hospital Pediátrico Villa",
+      "longitud": -99.113876,
+      "imageURL": "https://s3-media2.fl.yelpcdn.com/bphoto/X6R6GWP31pmzoHRBFlrsCw/348s.jpg"
     },
-    geometry: {
-      type: "Point",
-      coordinates: [
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -99.113876,
         19.487551
       ]
     },
-    record_timestamp: "2019-01-13T23:45:59+00:00"
+    "record_timestamp": "2019-01-13T23:45:59+00:00"
   },
   {
-    datasetid: "hospitales-y-centros-de-salud",
-    recordid: "3e887f508be38bd921fb3b8f3ee20cccf04078a5",
-    fields: {
-      latitud: 19.480774,
-      titular: "Director: Dr. Enrique Garduño Salvador Dirección: Av. San Juan de Aragón No 28, Col. Granjas Modernas. Delegación Gustavo A. Madero C.P. 07460. Teléfono: 55 77 88 67",
-      geopoint: [
+    "datasetid": "hospitales-y-centros-de-salud",
+    "recordid": "3e887f508be38bd921fb3b8f3ee20cccf04078a5",
+    "fields": {
+      "latitud": 19.480774,
+      "titular": "Director: Dr. Enrique Garduño Salvador Dirección: Av. San Juan de Aragón No 28, Col. Granjas Modernas. Delegación Gustavo A. Madero C.P. 07460. Teléfono: 55 77 88 67",
+      "geopoint": [
         19.480774,
         -99.103371
       ],
-      coordenadas: "-99.103371,19.480774,0.000000",
-      nombre: "Hospital General La Villa",
-      longitud: -99.103371,
-      imageURL: "https://capital-cdmx.org/uploads/normal/80ac15ac341c6273dc26f23dc2a25183.jpg",
+      "coordenadas": "-99.103371,19.480774,0.000000",
+      "nombre": "Hospital General La Villa",
+      "longitud": -99.103371,
+      "imageURL": "https://capital-cdmx.org/uploads/normal/80ac15ac341c6273dc26f23dc2a25183.jpg"
     },
-    geometry: {
-    type: "Point",
-    coordinates: [
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
       -99.103371,
       19.480774
     ]
   },
-    record_timestamp: "2019-01-13T23:45:59+00:00"
+    "record_timestamp": "2019-01-13T23:45:59+00:00"
   }
 ]}
